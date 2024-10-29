@@ -1,0 +1,83 @@
+#apollo-bar {
+	display: hidden;
+	text-align: center;
+	margin-bottom: 20px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+	border-bottom: 3px solid #fff;
+}
+#apollo-bar.green {
+	background: #3BDA00;
+}
+#apollo-bar.blue {
+	background: #0B5FA5;
+}
+#apollo-bar.red {
+	background: #F10026;
+}
+#apollo-bar .apb-wrapper {
+	width: 75%;
+	text-align: left;
+	color:#fff;
+	margin: 0 auto;
+	padding: 10px 0;
+	overflow: hidden;
+}
+#apollo-bar .apb-wrapper .apb-close {
+	float: right;
+	font-weight: bold;
+	font-size: 13px;
+	line-height: normal;
+	color:#fff;
+	padding: 0px 5px 2px 5px;
+	text-decoration: none;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
+}
+#apollo-bar .apb-wrapper .apb-close:hover{
+	border-radius: 10px;
+}
+#apollo-bar.green .apb-wrapper .apb-close:hover{
+	background: #268E00;
+}
+#apollo-bar.blue .apb-wrapper .apb-close:hover{
+	background: #043C6B;
+}
+#apollo-bar.red .apb-wrapper .apb-close:hover{
+	background: #9D0019;
+}
+#apollo-bar .apb-wrapper .apb_message a:link, #apollo-bar .apb-wrapper .apb_message a:active, #apollo-bar .apb-wrapper .apb_message a:visited {
+	color: #fff;
+}
+#apollo-bar .apb-wrapper .apb_message p{
+	margin: 0; color: #fff;
+	line-height: 150%;
+	font-size: 14px;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.35);
+}
+div#promo {
+	position: relative;
+	text-align: left;
+	width: 24px;
+	height: 24px;
+	overflow: hidden;
+	margin: 8px;
+	float: left;
+}
+.object {
+    position: absolute;
+    transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out; /** Chrome & Safari **/
+    -moz-transition: all 1s ease-in-out; /** Firefox **/
+    -o-transition: all 1s ease-in-out; /** Opera **/
+}
+.rocket {
+	top: 0;
+    left: 0;
+}
+#promo:hover .move-up {
+    transform: translate(0,-50px);
+    -webkit-transform: translate(0,-50px);
+    -o-transform: translate(0,-50px);
+    -moz-transform: translate(0,-50px);
+}

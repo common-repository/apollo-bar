@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apollo Bar 1.0\n"
+"POT-Creation-Date: 2012-10-24 11:51+0100\n"
+"PO-Revision-Date: 2012-10-24 11:51+0100\n"
+"Last-Translator: CodeArt <info@code-art.hu>\n"
+"Language-Team: CodeArt <support@code-art.hu>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\\.\n"
+
+#: ..\./apollo-bar.php:56
+msgid "Announcements"
+msgstr ""
+
+#: ..\./apollo-bar.php:57 ..\./apollo-bar.php:72
+msgid "Announcement"
+msgstr ""
+
+#: ..\./apollo-bar.php:58
+msgid "Add New"
+msgstr ""
+
+#: ..\./apollo-bar.php:59
+msgid "Add New Announcement"
+msgstr ""
+
+#: ..\./apollo-bar.php:60
+msgid "All items"
+msgstr ""
+
+#: ..\./apollo-bar.php:61
+msgid "Edit Announcement"
+msgstr ""
+
+#: ..\./apollo-bar.php:62
+msgid "New Announcement"
+msgstr ""
+
+#: ..\./apollo-bar.php:63
+msgid "View Announcement"
+msgstr ""
+
+#: ..\./apollo-bar.php:64
+msgid "Search Announcements"
+msgstr ""
+
+#: ..\./apollo-bar.php:65
+msgid "No Announcements found"
+msgstr ""
+
+#: ..\./apollo-bar.php:66
+msgid "No Announcements found in Trash"
+msgstr ""
+
+#: ..\./apollo-bar.php:68
+msgid "Apollo Bar"
+msgstr ""
+
+#: ..\./apollo-bar.php:111
+msgid "Scheduling"
+msgstr ""
+
+#: ..\./apollo-bar.php:123
+msgid "Start date"
+msgstr ""
+
+#: ..\./apollo-bar.php:127
+msgid "End date"
+msgstr ""
+
+#: ..\./apollo-bar.php:238
+msgid "Download Apollo Bar"
+msgstr ""
+
+#: ..\./apollo-bar.php:241
+msgid "x"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:10
+msgid "Apollo Bar Options"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:11
+msgid ""
+"The Apollo Bar is a simple notification plugin. This is a settings page. "
+"Setup the plugin color and other options. To add a notification text, go to "
+"Apollo Bar (custom post type) menu and create a new post, setup the "
+"Scheduling options and publish."
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:18
+msgid "General Settings"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:22
+msgid "Enable Apollo Bar?"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:30
+msgid "Enable Apollo Bar Logo?"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:38
+msgid "Color Settings"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:42
+msgid "Chose a color skin"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:59
+msgid "Save"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:65
+msgid "Donate"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:66
+msgid ""
+"Want to help make this plugin even better? All donations are used to improve "
+"this plugin. Thanks! Donors enter their own contribution amount."
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:73
+msgid "Or"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:75
+msgid "Vote for the plugin on Wordpress.org."
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:76
+msgid "Please refer to the side of plugin on your blog."
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:80
+msgid "CodeArt"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:82
+msgid "Fallow us on Twitter"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:83
+msgid "Fallow us on Google+"
+msgstr ""
+
+#: ..\./includes/apollo-bar-options.php:84
+msgid "Newsletter Subscribe"
+msgstr ""

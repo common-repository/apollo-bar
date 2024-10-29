@@ -1,0 +1,170 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Apollo Bar 1.0\n"
+"POT-Creation-Date: 2012-10-24 11:51+0100\n"
+"PO-Revision-Date: 2012-10-24 11:52+0100\n"
+"Last-Translator: CodeArt <info@code-art.hu>\n"
+"Language-Team: CodeArt <support@code-art.hu>\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\\.\n"
+
+#: ..\./apollo-bar.php:56
+msgid "Announcements"
+msgstr "Üzenetek"
+
+#: ..\./apollo-bar.php:57 ..\./apollo-bar.php:72
+msgid "Announcement"
+msgstr "Üzenet"
+
+#: ..\./apollo-bar.php:58
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+#: ..\./apollo-bar.php:59
+msgid "Add New Announcement"
+msgstr "Új bejegyzés hozzáadása"
+
+#: ..\./apollo-bar.php:60
+msgid "All items"
+msgstr "Összes bejegyzés"
+
+#: ..\./apollo-bar.php:61
+msgid "Edit Announcement"
+msgstr "Bejegyzés szerkesztése"
+
+#: ..\./apollo-bar.php:62
+msgid "New Announcement"
+msgstr "Új bejegyzés"
+
+#: ..\./apollo-bar.php:63
+msgid "View Announcement"
+msgstr "Bejegyzés megtekintése"
+
+#: ..\./apollo-bar.php:64
+msgid "Search Announcements"
+msgstr "Bejegyzés keresése"
+
+#: ..\./apollo-bar.php:65
+msgid "No Announcements found"
+msgstr "Nem található bejegyzés"
+
+#: ..\./apollo-bar.php:66
+msgid "No Announcements found in Trash"
+msgstr "Nem található bejegyzés a lomtárban"
+
+#: ..\./apollo-bar.php:68
+msgid "Apollo Bar"
+msgstr "Apollo Bar"
+
+#: ..\./apollo-bar.php:111
+msgid "Scheduling"
+msgstr "Megjelenítés"
+
+#: ..\./apollo-bar.php:123
+msgid "Start date"
+msgstr "Megjelenítés kezdete"
+
+#: ..\./apollo-bar.php:127
+msgid "End date"
+msgstr "Megjelenítés vége"
+
+#: ..\./apollo-bar.php:238
+msgid "Download Apollo Bar"
+msgstr "Az Apollo Bar letöltése"
+
+#: ..\./apollo-bar.php:241
+msgid "x"
+msgstr "x"
+
+#: ..\./includes/apollo-bar-options.php:10
+msgid "Apollo Bar Options"
+msgstr "Apollo Bar beállítások"
+
+#: ..\./includes/apollo-bar-options.php:11
+msgid ""
+"The Apollo Bar is a simple notification plugin. This is a settings page. "
+"Setup the plugin color and other options. To add a notification text, go to "
+"Apollo Bar (custom post type) menu and create a new post, setup the "
+"Scheduling options and publish."
+msgstr ""
+"Az Apollo Bar egy egyszerű figyelmeztető (kiáltvány) bővítmény. Ez itt a "
+"beállítások oldala. Testreszabhatod a színeket, valamint ki és "
+"bekapcsolhatod a megjelenítést és a promo logót. Az üzenetek kezeléséhez "
+"menj az Apollo Bar menübe (egyedi bejegyzés típus) és adj hozzá egy új "
+"bejegyzést. Állítsd be a Megjelenítési intervallumot és tedd közzé."
+
+#: ..\./includes/apollo-bar-options.php:18
+msgid "General Settings"
+msgstr "Általános beállítások"
+
+#: ..\./includes/apollo-bar-options.php:22
+msgid "Enable Apollo Bar?"
+msgstr "Megjelenít?"
+
+#: ..\./includes/apollo-bar-options.php:30
+msgid "Enable Apollo Bar Logo?"
+msgstr "Logó megjelenítése?"
+
+#: ..\./includes/apollo-bar-options.php:38
+msgid "Color Settings"
+msgstr "Színséma"
+
+#: ..\./includes/apollo-bar-options.php:42
+msgid "Chose a color skin"
+msgstr "Válassz színt"
+
+#: ..\./includes/apollo-bar-options.php:59
+msgid "Save"
+msgstr "Mentés"
+
+#: ..\./includes/apollo-bar-options.php:65
+msgid "Donate"
+msgstr "Adomány"
+
+#: ..\./includes/apollo-bar-options.php:66
+msgid ""
+"Want to help make this plugin even better? All donations are used to improve "
+"this plugin. Thanks! Donors enter their own contribution amount."
+msgstr ""
+"Szeretnéd támogatni a bővítmény fejlesztését? Egy tetszőleges összeggel "
+"megteheted a paypal-on. A befolyt összeget a plugin fejlesztésére fordítjuk! "
+"Köszönjük!"
+
+#: ..\./includes/apollo-bar-options.php:73
+msgid "Or"
+msgstr "Vagy"
+
+#: ..\./includes/apollo-bar-options.php:75
+msgid "Vote for the plugin on Wordpress.org."
+msgstr "Értékeld a bővítményt a Wordpress.org-on."
+
+#: ..\./includes/apollo-bar-options.php:76
+msgid "Please refer to the side of plugin on your blog."
+msgstr "Hivatkozz a bővítmény oldalára a saját blogodról."
+
+#: ..\./includes/apollo-bar-options.php:80
+msgid "CodeArt"
+msgstr "CodeArt"
+
+#: ..\./includes/apollo-bar-options.php:82
+msgid "Fallow us on Twitter"
+msgstr "Kövess minket Twitteren"
+
+#: ..\./includes/apollo-bar-options.php:83
+msgid "Fallow us on Google+"
+msgstr "Kövess minket Google+-on"
+
+#: ..\./includes/apollo-bar-options.php:84
+msgid "Newsletter Subscribe"
+msgstr "Hírlevél feliratkozás"
+
+#, fuzzy
+#~ msgid "Apollo Bar Title"
+#~ msgstr "Apollo Bar"
